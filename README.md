@@ -1,7 +1,5 @@
 # 🚀 X Zone - Step into the Future 🌌
 
-![X Zone Banner](https://via.placeholder.com/800x200?text=X+Zone)
-
 **X Zone** é uma **landing page interativa futurista** que une design moderno, elementos 3D e uma experiência de usuário imersiva. Ideal para mostrar produtos, serviços ou comunidades digitais.  
 
 ---
